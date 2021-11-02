@@ -1,0 +1,19 @@
+  
+  img {
+    width: 400px;
+    border-bottom-color: green;
+    border-style: solid;
+    border-top-color: white;
+    border-right-color: white;
+    border-left-color: white;
+    border-width: 4px;
+  }
+  body {
+    text-align: center;
+  }
+  button {
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: green;
+  }
